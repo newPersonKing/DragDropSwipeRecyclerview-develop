@@ -2,9 +2,9 @@
 Highly customizable Android library written in Kotlin that uses AndroidX and extends `RecyclerView` to include extra features, such as support for *drag & drop* and *swipe* gestures, among others. It works with vertical, horizontal and grid lists.
 
 ## Demo
-![Drag & drop and swipe recycler view; demo with vertical list](https://github.com/newPersonKing/DragDropSwipeRecyclerview-develop/tree/master/readme/drag-drop-swipe-list-demo.gif)
+![](/readme/drag-drop-swipe-list-demo.gif)
 
-![Drag & drop and swipe recycler view; demo with grid list](https://github.com/newPersonKing/DragDropSwipeRecyclerview-develop/tree/master/readme/drag-drop-swipe-list-demo2.gif)
+![](/readme/drag-drop-swipe-list-demo2.gif)
 
 ## How to use it
 ### 1. Reference the library
